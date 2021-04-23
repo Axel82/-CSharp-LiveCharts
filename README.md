@@ -1,2 +1,2 @@
 # -CSharp-LiveCharts
-SImple and power full NuGet package for your charts.
+Simple and power full NuGet package for your charts.
